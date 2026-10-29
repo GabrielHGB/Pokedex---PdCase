@@ -6,7 +6,7 @@ A aplicação consiste em uma **Pokédex interativa**, que permite visualizar in
 
 ## Acesse o projeto
 
-**[Visualizar Pokédex](https://SEU-PROJETO.vercel.app/)**
+**[Visualizar Pokédex](https://pokedexpdcase.vercel.app/)**
 
 ## Tecnologias utilizadas
 
